@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{53684531-FC1C-4EAA-B066-724873411EE9}|Fall2025-Project1-jrborth\\Fall2025-Project1-jrborth.csproj|c:\\users\\jacks\\documents\\cs330\\p1cs330\\fall2025-project1-jrborth\\fall2025-project1-jrborth\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{53684531-FC1C-4EAA-B066-724873411EE9}|Fall2025-Project1-jrborth\\Fall2025-Project1-jrborth.csproj|solutionrelative:fall2025-project1-jrborth\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53684531-FC1C-4EAA-B066-724873411EE9}|Fall2025-Project1-jrborth\\Fall2025-Project1-jrborth.csproj|c:\\users\\jacks\\documents\\cs330\\p1cs330\\fall2025-project1-jrborth\\fall2025-project1-jrborth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53684531-FC1C-4EAA-B066-724873411EE9}|Fall2025-Project1-jrborth\\Fall2025-Project1-jrborth.csproj|solutionrelative:fall2025-project1-jrborth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,22 +48,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-09-23T23:23:23.483Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jacks\\Documents\\cs330\\p1cs330\\Fall2025-Project1-jrborth\\Fall2025-Project1-jrborth\\Program.cs",
-              "RelativeDocumentMoniker": "Fall2025-Project1-jrborth\\Program.cs",
-              "ToolTip": "C:\\Users\\jacks\\Documents\\cs330\\p1cs330\\Fall2025-Project1-jrborth\\Fall2025-Project1-jrborth\\Program.cs",
-              "RelativeToolTip": "Fall2025-Project1-jrborth\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T23:22:17.822Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
